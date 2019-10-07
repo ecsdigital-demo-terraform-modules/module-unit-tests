@@ -7,3 +7,10 @@
 
 # .tfvars files
 *.tfvars
+
+# Go Files
+vendor*
+Gopkg.lock
+Gopkg.toml
+pkg
+
