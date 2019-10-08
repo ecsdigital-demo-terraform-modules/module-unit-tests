@@ -2,11 +2,11 @@
 
 ## Introduction
 
-The code provided in this repo is to demonstrate the capabilites of *terratest*, a Go library that make it easier to write automated tests for your infrastructure code.
+The code provided in this repo is to demonstrate the capabilities of *terratest*, a Go library that make it easier to write automated tests for your infrastructure code.
 
 The tests currently configured are straight forward and are provided as a foundation to build upon.
 
-These tests are intended to be used with the terrafor modules located here:
+These tests are intended to be used with the terraform modules located here:
 
 https://github.com/ecsdigital-demo-terraform-modules 
 
