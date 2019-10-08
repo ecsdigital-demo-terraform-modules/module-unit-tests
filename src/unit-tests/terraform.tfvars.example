@@ -8,13 +8,10 @@ var_aws_subnet2_cidr = ""
 var_aws_subnet2_az = ""
 
 # Settings for EC2 instance
-aws_ami_id = ""
-aws_ec2_instance_count = ""
-aws_ec2_instance_type = ""
-aws_ec2_key_name = ""
-aws_ec2_sg_id = ""
-aws_ec2_subnet_id = ""
-aws_ec2_volume_size = ""
+var_aws_ec2_instance_count = ""
+var_aws_ec2_instance_type = ""
+var_aws_ec2_key_name = ""
+var_aws_ec2_volume_size = ""
 
 # Tagging Settings
 var_owner_tag = ""
